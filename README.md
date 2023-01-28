@@ -1,2 +1,2 @@
-# al-osmani
+# al-ossmani
 this only for testing
