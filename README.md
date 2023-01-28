@@ -1,2 +1,2 @@
-# alzobir os
+# alzobir-os
 this only for testing
